@@ -1,0 +1,2 @@
+recursive-include src/pykimix/assets *
+recursive-include src/pykimix/c_core *

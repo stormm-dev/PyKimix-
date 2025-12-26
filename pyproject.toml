@@ -1,0 +1,19 @@
+[project]
+name = "pykimix"
+version = "0.4.31"
+description = "Python engine integrating Pygame and Kivy with optional native acceleration."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    { name = "StormTheGuy" }
+]
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/stormm-dev/pykimix"
+Source = "https://github.com/stormm-dev/pykimix"
+Issues = "https://github.com/stormm-dev/pykimix/issues"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
